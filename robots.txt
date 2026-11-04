@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-daaf5eb8a4.ikara.cn/sitemap.xml
